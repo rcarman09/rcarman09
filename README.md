@@ -13,7 +13,7 @@ During my time at the University of Cincinnati, I have developed a strong intere
 |-----------------------------------------------|----------------------------|
 | Wireshark Pcap Analysis          | <a href="https://github.com/rcarman09/Wireshark-PCAP-Analysis">Wireshark Analysis Lab</a>|
 | Network Design & Implementation | <a href="https://github.com/rcarman09/Network-Design-Lab">Network Design Lab</a>|
-| More Projects in Progress         | Link|
+| Senior Design Project         | <a href="https://github.com/dappensd/Senior-Design">Senior Design Project</a>|
 
 ## Tools
 
