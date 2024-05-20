@@ -14,6 +14,7 @@ During my time at the University of Cincinnati, I have developed a strong intere
 | Wireshark Pcap Analysis          | <a href="https://github.com/rcarman09/Wireshark-PCAP-Analysis">Wireshark Analysis Lab</a>|
 | Network Design & Implementation | <a href="https://github.com/rcarman09/Network-Design-Lab">Network Design Lab</a>|
 | Senior Design Project         | <a href="https://github.com/dappensd/Senior-Design">Senior Design Project</a>|
+| Microsoft Azure SIEM Lab        | In Progress|
 
 ## Tools
 
@@ -55,3 +56,5 @@ During my time at the University of Cincinnati, I have developed a strong intere
 ## Projects
 - Wireshark Analysis Lab
 - Network Design/Implementation Lab
+- Senior Design Project
+- Microsoft Azure SIEM Lab (In Progress)
