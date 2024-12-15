@@ -19,7 +19,7 @@ During my time at the University of Cincinnati, I have developed a strong intere
 ## Certifications
 
 - CCNA (Cisco Certified Network Associate)
-- Sec+ (CompTia Security+)
+- Sec+ (CompTIA Security+)
 
 ## Certificates
 - Qualys VMDR (Vulnerability Management Detection and Response)
