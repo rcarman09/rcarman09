@@ -15,12 +15,13 @@ During my time at the University of Cincinnati, I have developed a strong intere
 
 ## Projects
 
-| Skill                                         | Associated Project         |
+| Description                                        | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Wireshark         | <a href="https://github.com/rcarman09/Wireshark-PCAP-Analysis">Wireshark Analysis Lab</a>|
-| Network Architecture | <a href="https://github.com/rcarman09/Network-Design-Lab">Network Design Lab</a>|
-| Capstone Project         | <a href="https://github.com/dappensd/Senior-Design">Senior Design Project</a>|
-| Microsoft Azure SIEM        | <a href="https://github.com/rcarman09/Azure-SOC">Azure SOC Lab</a>|
+| Splunk/Wazuh Log Aggregation and Monitoring From VMs in Home Lab        | <a href="https://github.com/rcarman09/Splunk-Lab">Splunk Lab</a>|
+| Wiresharkk PCAP Analysis         | <a href="https://github.com/rcarman09/Wireshark-PCAP-Analysis">Wireshark Analysis Lab</a>|
+| Network Architecture Design Project using Packet Tracer | <a href="https://github.com/rcarman09/Network-Design-Lab">Network Design Lab</a>|
+| Senior Design Capstone Project featuring Microsoft Azure IOT Hub integration with Raspberry Pis         | <a href="https://github.com/dappensd/Senior-Design">Senior Design Project</a>|
+| Microsoft Azure SIEM/Honeynet with real traffic        | <a href="https://github.com/rcarman09/Azure-SOC">Azure SOC Lab</a>|
 
 ## Certifications
 
