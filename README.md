@@ -1,11 +1,11 @@
 # Hello, I'm Ryan Carman
 <a href="https://www.linkedin.com/in/ryancarman/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-As a passionate IT professional with a strong foundation in cybersecurity and networking, I bring both academic excellence and practical experience to the table. I earned my Bachelor's degree in Information Technology from the University of Cincinnati—double majoring in Cybersecurity and Networking—which has provided me with a robust technical background and an in-depth understanding of modern IT challenges.
+As a passionate IT professional with a strong foundation in cybersecurity and networking, I bring both academic and practical experience to the table. I earned my Bachelor's degree in Information Technology from the University of Cincinnati, double majoring in Cybersecurity and Networking. This has provided me with a technical background and an in-depth understanding of modern IT challenges.
 
-During my time at the University of Cincinnati, I honed my skills through hands-on roles in the A&S IT department, where I tackled real-world problems and contributed to innovative projects. My GitHub portfolio showcases a variety of projects that reflect my dedication to continuous learning and my proactive approach to solving complex issues.
+During my time at the University of Cincinnati, I honed my skills through hands-on roles in the A&S IT department, where I completed IT tickets through ServiceNow and contributed to innovative projects. My GitHub portfolio showcases a variety of projects that reflect my passion and my proactive approach to furthering my IT skillset.
 
-In addition to my academic and practical experience, I currently have my Cisco Certified Network Associate (CCNA) and my Security+ certifications. I am driven by a commitment to cybersecurity best practices and a desire to contribute to safeguarding digital infrastructures in an ever-evolving technological landscape.
+In addition to my academic and practical experience, I currently have my Cisco Certified Network Associate (CCNA) and my Security+ certifications. I'm committed to following cybersecurity best practices and playing a role in protecting digital infrastructures as technology continues to evolve.
 
 I am excited about connecting with fellow IT professionals and exploring new opportunities where I can leverage my expertise, expand my skill set, and make a meaningful impact in the IT industry.
 
